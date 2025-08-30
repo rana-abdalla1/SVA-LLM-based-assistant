@@ -1,0 +1,119 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ranaa/OneDrive/Desktop/ML/questa_quick
+T_opt
+!s110 1756553376
+VY;TQG1JHoDhSjH]z7;oAj1
+04 8 4 work tb_hello fast 0
+=1-f854f637c51a-68b2e0a0-267-28a4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vhello
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1756553366
+!i10b 1
+!s100 ]8@K^:91^LIB3U>1dQgSY2
+IDUU?OK6CB=02AN;>TkPK82
+S1
+R0
+w1756553064
+8hello.sv
+Fhello.sv
+!i122 3
+Z4 L0 1 4
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1756553366.000000
+Z8 !s107 tb_hello.sv|formal\props\hello_bind.sv|formal\props\hello_props.sv|hello.sv|
+Z9 !s90 -sv|hello.sv|formal\props\hello_props.sv|formal\props\hello_bind.sv|tb_hello.sv|
+!i113 0
+Z10 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Xhello_bind_sv_unit
+R2
+R3
+V@LlQGeiIi<QYn[gOnZC5_2
+r1
+!s85 0
+!i10b 1
+!s100 W=0nBRn74S>>3VSSUejhS1
+I@LlQGeiIi<QYn[gOnZC5_2
+!i103 1
+S1
+R0
+Z11 w1756552386
+8formal\props\hello_bind.sv
+Fformal\props\hello_bind.sv
+!i122 3
+L0 1 0
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R1
+vhello_props
+R2
+R3
+!i10b 1
+!s100 ;Jc;[2Ukg[;A^4P]0GndA3
+IRGkIDPz:gDf4C[@44i>E52
+S1
+R0
+R11
+8formal\props\hello_props.sv
+Fformal\props\hello_props.sv
+!i122 3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R1
+vtb_hello
+R2
+R3
+!i10b 1
+!s100 9L4_SQeJbaPAEDG?mzQiT2
+I`z>P2UQimag6[k`K9:zlE2
+S1
+R0
+w1756553356
+8tb_hello.sv
+Ftb_hello.sv
+!i122 3
+L0 2 17
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R1
